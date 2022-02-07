@@ -27,6 +27,8 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "ava": "~4.0.1"
+    "@sqrtthree/prettier-config": "~2.0.1",
+    "ava": "~4.0.1",
+    "prettier": "~2.5.1"
   }
 }
